@@ -2,7 +2,7 @@ import { useTypewriter, Cursor } from 'react-simple-typewriter';
 
 const Home = () => {
     const [typeEffect] = useTypewriter({
-        words: ['business', 'company', 'person','enterprise', 'startup'],
+        words: ['business', 'company', 'person', 'startup'],
         loop: 0,
         typeSpeed: 100,
         deleteSpeed: 60,
