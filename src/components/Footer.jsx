@@ -13,7 +13,7 @@ const Footer = () => {
               We are here to help millions of people harness the power of the internet to build online success.
               We are constantly improving our server technology, professional support, and web hosting services.
             </p>
-            <div className="flex h-10 mt-4 gap-1">
+            <div className="flex h-10 mt-4">
                 <img src="/pay1.png" alt="" />
                 <img src="/pay2.png" alt="" />
                 <img src="/pay3.png" alt="" />
