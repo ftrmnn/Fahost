@@ -6,7 +6,7 @@ const About = () => {
     const [counterOn, setCounterOn] = useState(false);
 
     return (
-        <div className="md:flex bg-slate-100 w-full  mt-40 font-poppins">
+        <div className="md:flex bg-slate-100 w-full py-10 mt-40 font-poppins">
             <div className="md:py-24 md:pl-28 py-5 px-10 text-center md:text-left">
                 <h1 className="text-4xl font-bold">Fahost is the heart of servers</h1>
                 <p className="max-w-sm mt-2 text-1xl">With our industry-leading uptime and customer support, you'll have peace of mind knowing your infrastructure is in good hands</p>

@@ -24,7 +24,7 @@ export default function Navbar() {
   }, [lastScrollTop]);
 
   return (
-    <nav className={`flex items-center justify-between p-4 h-28 bg-white font-poppins transition-transform duration-300 ease-in-out ${scrollingDown ? '-translate-y-28' : 'translate-y-0'} fixed top-0 w-full`}>
+    <nav className={`flex items-center justify-between p-4 md:h-20 h-28 bg-white font-poppins transition-transform duration-300 ease-in-out ${scrollingDown ? '-translate-y-28' : 'translate-y-0'} fixed top-0 w-full`}>
       <div className="flex-shrink-0">
         <img className="md:h-16 h-12" src="/fahost.png" alt="Logo" />
       </div>

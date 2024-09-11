@@ -20,8 +20,8 @@ const Home = () => {
             </h1>
             <p className="text-center md:text-lg text-base max-w-xl mx-auto mt-2">Fahost, secure, and reliable cloud solutions tailored for businesses of all sizes, ensuring growth, security, and uptime</p>
             <div className="mt-10">
-                <button className="mr-8 bg-slate-300 rounded-3xl px-6 py-3 border-2 border-slate-500">Get Started</button>
-                <button className="bg-slate-300 rounded-3xl px-6 py-3 border-2 border-slate-500">Explore Web</button>
+                <button className="mr-8 bg-slate-300 text-sm rounded-3xl px-6 py-3 border-2 border-slate-500">Get Started</button>
+                <button className="bg-slate-300 rounded-3xl text-sm px-6 py-3 border-2 border-slate-500">Explore Web</button>
             </div>
         </div>
     );
