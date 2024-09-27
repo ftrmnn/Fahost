@@ -30,7 +30,7 @@ const Core = () => {
         {
             icon: <FaExchangeAlt />,
             title: "Reseller Hosting",
-            text: "Platform designed to sell hosting services efficiently to clients and businesses.",
+            text: "Platform designed to hosting services efficiently to clients and businesses",
             button: "Learn More >",
         },
     ];
